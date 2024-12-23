@@ -11,5 +11,5 @@ I named the modified code 'No Stretching Dark Area'.
 ## Original FHD Image
 ![Original_FHD_Image](https://github.com/suk1998/InverseToneMapping_NoStretching_DarkArea/blob/main/640_360_03.mp4_20221230_163337.985_jpeg70.jpg)
 
-## SCUNET UPscaling to 4K
-
+## SCUNET UPscaling to 4K + HDR Inverse Tone Mapping + Color Enhancement Algorithm
+![Scunet Upscaling to 4K_InverseToneMapping+ColorEnhancement](https://github.com/suk1998/InverseToneMapping_NoStretching_DarkArea/blob/main/640_360_03_x2_SCU_color.mov_20221230_163430.225_jpeg70.jpg)
