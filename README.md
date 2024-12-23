@@ -9,3 +9,7 @@ untouched by tone mapping, making it appear darker, while only applying tone map
 I named the modified code 'No Stretching Dark Area'.
 
 ## Original FHD Image
+![Original_FHD_Image](https://github.com/suk1998/InverseToneMapping_NoStretching_DarkArea/blob/main/640_360_03.mp4_20221230_163337.985_jpeg70.jpg)
+
+## SCUNET UPscaling to 4K
+
