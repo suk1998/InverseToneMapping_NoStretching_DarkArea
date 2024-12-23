@@ -8,6 +8,9 @@ that were previously not visible, resulting in what seemed like noise in the out
 untouched by tone mapping, making it appear darker, while only applying tone mapping to brighten the fireworks. The resulting video is the one displayed above. 
 I named the modified code 'No Stretching Dark Area'.
 
+reference: https://hs-paik.netlify.app/getty-client
+           https://hs-paik.netlify.app/oldvideo
+
 ## Original FHD Image
 ![Original_FHD_Image](https://github.com/suk1998/InverseToneMapping_NoStretching_DarkArea/blob/main/640_360_03.mp4_20221230_163337.985_jpeg70.jpg)
 
